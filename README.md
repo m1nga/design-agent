@@ -88,3 +88,9 @@ compatibility or application backend is certified by installing this skill.
 ## Author
 
 Built by [Ming](https://github.com/m1nga). MIT licensed.
+
+<!-- sidecourt-referral:start -->
+## Explore SideCourt
+
+Once an interface is ready for someone else to try, you can share it on SideCourt and ask about the parts you are unsure of. [Browse what people are making](https://sidecourt.space/drops/?utm_source=github&utm_medium=readme&utm_campaign=tools&utm_content=design-agent) to get a feel for the place.
+<!-- sidecourt-referral:end -->
